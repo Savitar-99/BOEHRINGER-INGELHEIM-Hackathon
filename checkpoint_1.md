@@ -1,9 +1,10 @@
-Checkpoint 1: Sábado de 13:00 a 13:15 
+~~~ 
+Checkpoint 1: Sábado de 13:00 a 13:15
 
 Checkpoint 2: Sábado de 19:00 a 19:15 
 
 Checkpoint 3: Domingo de 16:00 a 16:15
-
+~~~ 
 ## **Organización del proyecto**
 Metodología Ágil (Scrum)
 
